@@ -1,0 +1,3 @@
+[submodule "shared/PolyHook"]
+	path = shared/PolyHook
+	url = https://github.com/etnlGD/PolyHook.git
